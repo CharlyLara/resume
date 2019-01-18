@@ -1,7 +1,7 @@
 # Site Settings
 title: Daniel Calatayud
 description: Check out my resume
-url: 'https://danniebgoode.github.io/resume/'
+url: 'https://charlylara.github.io/resume/'
 baseurl: '/resume' #change it according to your repository name
 about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
